@@ -1,6 +1,7 @@
-# Ecommerce API
+# E-COMMERCE SQL
 
-## Table of Contents
+## contents
+
 
 - **[Frameworks and Language Used](#frameworks-and-language-used)**
 - **[Dataflow](#dataflow)**
